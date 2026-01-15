@@ -1,10 +1,10 @@
 // ==========================
-// Dates importantes
+// Dates importantes /!\ +1 mois
 // ==========================
 
 let depart = new Date(2025, 8, 1); // 1 septembre 2025
 let fin = new Date(2026, 6, 4);    // 4 juillet 2026
-let vacance = new Date(2025, 9, 18); // 18 octobre 2025
+let vacance = new Date(2026, 1, 7); // 7 fevrier 2026 (-1 mois)
 
 // ==========================
 // Calcul des jours
